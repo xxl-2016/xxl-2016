@@ -43,14 +43,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xxl-2016/xixi-liang-intelliapply-client?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>InStock API</b></a></td>
+      <td><a href="https://github.com/xxl-2016/instock-api-team-3"><b>InStock API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>BrainStation Flix</b></a></td>
+      <td><a href="https://github.com/xxl-2016/xixi-liang-brain-flix"><b>BrainStation Flix</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
