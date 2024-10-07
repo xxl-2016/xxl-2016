@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Xixi, Fullstack developer from <b>Canada</b>, currently living in <b>Vancouver</b>. </p>
+<h2>Welcome to my page! </br> </br> I'm Xixi, Fullstack developer from <b>Canada</b>, currently living in <b>Vancouver</b>. </h2>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,3 +21,46 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>Open source projects</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/xxl-2016/xixi-liang-intelliapply-client"><b>IntelliApply Pro</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xxl-2016/xixi-liang-intelliapply-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xxl-2016/xixi-liang-intelliapply-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xxl-2016/xixi-liang-intelliapply-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xxl-2016/xixi-liang-intelliapply-client?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>InStock API</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xxl-2016/instock-api-team-3?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>BrainStation Flix</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xxl-2016/xixi-liang-brain-flix?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<h3>Contact Me</h3>
+
+[![Linkedin: Xixi Liang](https://img.shields.io/badge/-Xixi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xxliang/)](https://www.linkedin.com/in/xxliang/)
+[![GitHub xxl-2016](https://img.shields.io/github/followers/xxl-2016?label=follow&style=social)](https://github.com/xxl-2016)
